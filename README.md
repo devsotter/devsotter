@@ -1,6 +1,4 @@
  <div align="center">
- <h1>Olá, eu sou Nicholas Sotter.
- <br>Desenvolvedor Front-end.</h1>
 
 <nav>
   <a href="https://www.linkedin.com/in/nicholas-sotter/" target="_blank" alt="Linkedin">
